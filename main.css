@@ -1,0 +1,14 @@
+
+.navbars{
+    margin-right: 0;
+}
+
+.one{
+    display: flex;
+    width: 100%;
+}
+
+.one-left{
+    text-align: left;
+    
+}
